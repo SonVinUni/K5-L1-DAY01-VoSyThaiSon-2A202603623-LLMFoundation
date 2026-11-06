@@ -2,7 +2,7 @@
 
 - **MSSV: 2A202603623**
 - **Họ và tên: VoSyThaiSon**
-- **SEED** (in ở ô đầu notebook):
+- **SEED** (in ở ô đầu notebook): 7623
 
 ## 1. Bằng chứng
 
